@@ -38,7 +38,7 @@ A curated list of articles I authored or contributed to, media interviews, webin
   **Featured Article**: Steve Cobb on 2026 Cybersecurity Predictions  
   Published: Jan 5, 2026  
   [VMBlog Article](https://vmblog.com/archive/2026/01/05/2026-cybersecurity-predictions-the-rise-of-the-field-ciso-and-the-battle-against-data-sprawl.aspx)
-
+  
 ## 📺 Media Interviews & Features
 
 - **Ho-Ho-Hold On: CISO Steve Cobb Shares Cyber Santa’s Guide to Safe Holiday Shopping**  
@@ -48,6 +48,12 @@ A curated list of articles I authored or contributed to, media interviews, webin
   [LinkedIn Post (SecurityScorecard)](https://www.linkedin.com/feed/update/urn:li:activity:7417631815403917312/)  
   [SecurityScorecard Blog](https://securityscorecard.com/blog/ho-ho-hold-on-ciso-steve-cobb-shares-cyber-santas-guide-to-safe-holiday-shopping)
 
+- **2026 Cybersecurity Predictions: The Rise of the Field CISO and the Battle Against Data Sprawl**  
+  **Type**: Expert Commentary  
+  **Published**: Dec 22, 2025  
+  **Description**: Steve Cobb contributed expert insights to this 2026 cybersecurity predictions roundup, discussing the emergence of the Field CISO role and strategies to combat data sprawl in modern enterprises.  
+  [LinkedIn Post (SecurityScorecard)](https://www.linkedin.com/feed/update/urn:li:activity:7408906844418711553/)  
+  
 ## 🎙️Podcasts
 
 - **Challenging AI Threats and Strengthening Human Vigilance**  
