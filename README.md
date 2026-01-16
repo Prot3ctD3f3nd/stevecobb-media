@@ -9,7 +9,7 @@ A curated list of articles I authored or contributed to, media interviews, webin
 
 ## Articles & Publications
 
-![Article Icon](https://img.icons8.com/ios/50/000000/article.png)
+![Article Icon](https://simpleicons.org/icons/article.svg)
 
 - **US breach reinforces need to plug third-party security weaknesses**  
   **Featured Quote**: Steve Cobb on vendor risk management and ransomware tactics  
