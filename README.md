@@ -2,7 +2,7 @@
 
 # Steve Cobb - Professional Contributions
 
-![Cybersecurity Header Image](https://images.unsplash.com/photo-1555066931-bf19c9d1087c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
+💻🔒
 
 A curated list of articles I authored or contributed to, media interviews, webinars, podcasts, and conferences where I spoke. This spans cybersecurity, technology, and related topics.  
 **Last updated: January 16, 2026**
@@ -34,7 +34,7 @@ A curated list of articles I authored or contributed to, media interviews, webin
   Published: Q2 2025  
   [Dark Reading Article](https://www.darkreading.com/cyberattacks-data-breaches/turkish-apt-exploits-chat-app-zero-day-spy-iraqi-kurds)
 
-## Media Interviews & Features
+## 📺 Media Interviews & Features
 
 ![Interview Icon](https://img.icons8.com/ios/50/000000/microphone.png)
 
@@ -56,7 +56,7 @@ A curated list of articles I authored or contributed to, media interviews, webin
   **Description**: Multiple mentions and commentary from Steve Cobb on multicloud security and APT threats.  
   [SecurityScorecard Blog](https://securityscorecard.com/blog/securityscorecard-in-the-news-q2-2025)
 
-## Podcasts
+## 🎙️Podcasts
 
 ![Podcast Icon](https://img.icons8.com/ios/50/000000/podcast.png)
 
@@ -66,7 +66,7 @@ A curated list of articles I authored or contributed to, media interviews, webin
   **Description**: Interview on evolving cybersecurity threats, risks, and mitigation strategies.  
   [Podcast Episode](https://www.easyprey.com/the-constantly-evolving-subject-of-cyber-security-with-stephen-cobb)
 
-## Conferences & Speaking Engagements
+## 🗣️Conferences & Speaking Engagements
 
 ![Conference Icon](https://img.icons8.com/ios/50/000000/conference-call.png)
 
@@ -81,18 +81,3 @@ A curated list of articles I authored or contributed to, media interviews, webin
   **Published**: Q2 2025  
   **Description**: Steve Cobb made a strong impression at RSAC 2025 (booth, potential speaking or panel).  
   [Instagram Post](https://www.instagram.com/p/DJHyqI4JPio)
-
----
-
-**Copy and paste** the entire block above into your GitHub repository's `README.md` file.  
-
-### Quick Setup Steps
-1. Go to GitHub → Click the **+** icon (top right) → **New repository**
-2. Name it something like `steve-cobb-contributions`
-3. Make it public
-4. Check **Add a README file**
-5. Paste the Markdown content above into the README editor
-6. Commit the changes
-
-You can preview it on GitHub to see how it renders (images, bold, bullets). If you have more specific LinkedIn content (titles, dates, direct links), share them, and I can add them to the list. Let me know if you want tweaks like different icons, colors, or additional sections!
-
