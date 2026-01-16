@@ -36,18 +36,6 @@ A curated list of articles I authored or contributed to, media interviews, webin
 
 ## 📺 Media Interviews & Features
 
-- **Challenging AI Threats and Strengthening Human Vigilance**  
-  **Type**: Video Interview  
-  **Published**: Recent (post-2023)  
-  **Description**: Interview as CISO of SecurityScorecard on AI threats and vigilance.  
-  [YouTube Video](https://www.youtube.com/watch?v=H0F-gpcuZ_4)
-
-- **Ho-Ho-Hold On: CISO Steve Cobb Shares Cyber Santa’s Guide to Safe Holiday Shopping**  
-  **Type**: Video/Podcast  
-  **Published**: December 8, 2025  
-  **Description**: Interview on holiday online scams and security tips.  
-  [SecurityScorecard Blog](https://securityscorecard.com/blog/ho-ho-hold-on-ciso-steve-cobb-shares-cyber-santas-guide-to-safe-holiday-shopping/)
-
 - **SecurityScorecard In The News Q2 2025**  
   **Type**: Feature  
   **Published**: July 2, 2025  
@@ -69,6 +57,12 @@ A curated list of articles I authored or contributed to, media interviews, webin
   **Description**: Interview on evolving cybersecurity threats, risks, and mitigation strategies.  
   [Podcast Episode](https://www.easyprey.com/the-constantly-evolving-subject-of-cyber-security-with-stephen-cobb)
 
+- **Challenging AI Threats and Strengthening Human Vigilance**  
+  **Type**: Authenticate This! Podcast 
+  **Published**: Aug 27, 2025  
+  **Description**: Interview as CISO of SecurityScorecard on AI threats and vigilance.  
+  [YouTube Video](https://www.youtube.com/watch?v=H0F-gpcuZ_4)
+  
 ## 🗣️Conferences & Speaking Engagements
 
 - **Ones and Zeroes: A Tale of Two Futures**  
