@@ -50,6 +50,13 @@ A curated list of articles I authored or contributed to, media interviews, webin
   **Published**: Aug 27, 2025  
   **Description**: Interview as CISO of SecurityScorecard on AI threats and vigilance.  
   [YouTube Video](https://www.youtube.com/watch?v=H0F-gpcuZ_4)
+
+- **Challenging AI Threats and Strengthening Human Vigilance**  
+  **Type**: AI GovSec Podcast  
+  **Published**: Jan 13, 2026 
+  **Description**: Interview as CISO of SecurityScorecard discussing AI-driven threats, strengthening human vigilance, and proactive cybersecurity strategies.  
+  [LinkedIn Post (SecurityScorecard)](https://www.linkedin.com/feed/update/urn:li:activity:7416929474799345665/)  
+  [Direct YouTube Video](https://www.youtube.com/watch?v=H0F-gpcuZ_4)
   
 ## 🎥Webinars
 
