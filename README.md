@@ -36,8 +36,6 @@ A curated list of articles I authored or contributed to, media interviews, webin
 
 ## 📺 Media Interviews & Features
 
-![Interview Icon](https://img.icons8.com/ios/50/000000/microphone.png)
-
 - **Challenging AI Threats and Strengthening Human Vigilance**  
   **Type**: Video Interview  
   **Published**: Recent (post-2023)  
@@ -58,8 +56,6 @@ A curated list of articles I authored or contributed to, media interviews, webin
 
 ## 🎙️Podcasts
 
-![Podcast Icon](https://img.icons8.com/ios/50/000000/podcast.png)
-
 - **The Constantly Evolving Subject of Cyber Security**  
   **Podcast**: Easy Prey Podcast  
   **Published**: June 22, 2022  
@@ -67,8 +63,6 @@ A curated list of articles I authored or contributed to, media interviews, webin
   [Podcast Episode](https://www.easyprey.com/the-constantly-evolving-subject-of-cyber-security-with-stephen-cobb)
 
 ## 🗣️Conferences & Speaking Engagements
-
-![Conference Icon](https://img.icons8.com/ios/50/000000/conference-call.png)
 
 - **Ones and Zeroes: A Tale of Two Futures**  
   **Event**: TEDxSanDiego  
