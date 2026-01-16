@@ -34,6 +34,11 @@ A curated list of articles I authored or contributed to, media interviews, webin
   Published: May 16, 2025  
   [Dark Reading Article](https://www.darkreading.com/cyberattacks-data-breaches/turkish-apt-exploits-chat-app-zero-day-spy-iraqi-kurds)
 
+- **2026 Cybersecurity Predictions: The Rise of the Field CISO and the Battle Against Data Sprawl**  
+  **Featured Article**: Steve Cobb on 2026 Cybersecurity Predictions  
+  Published: Jan 5, 2026  
+  [VMBlog Article](https://vmblog.com/archive/2026/01/05/2026-cybersecurity-predictions-the-rise-of-the-field-ciso-and-the-battle-against-data-sprawl.aspx)
+
 ## 📺 Media Interviews & Features
 
 - **Ho-Ho-Hold On: CISO Steve Cobb Shares Cyber Santa’s Guide to Safe Holiday Shopping**  
