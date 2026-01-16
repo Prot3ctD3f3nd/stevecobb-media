@@ -54,6 +54,13 @@ A curated list of articles I authored or contributed to, media interviews, webin
   **Description**: Multiple mentions and commentary from Steve Cobb on multicloud security and APT threats.  
   [SecurityScorecard Blog](https://securityscorecard.com/blog/securityscorecard-in-the-news-q2-2025)
 
+- **Ho-Ho-Hold On: CISO Steve Cobb Shares Cyber Santa’s Guide to Safe Holiday Shopping**  
+  **Type**: Video Interview with FOX Houston  
+  **Published**: December 8, 2025  
+  **Description**: Interview as CISO of SecurityScorecard discussing holiday scams  
+  [LinkedIn Post (SecurityScorecard)](https://www.linkedin.com/feed/update/urn:li:activity:7417631815403917312/)  
+  [SecurityScorecard Blog](https://securityscorecard.com/blog/ho-ho-hold-on-ciso-steve-cobb-shares-cyber-santas-guide-to-safe-holiday-shopping)
+
 ## 🎙️Podcasts
 
 - **The Constantly Evolving Subject of Cyber Security**  
