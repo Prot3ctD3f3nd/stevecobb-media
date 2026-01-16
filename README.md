@@ -21,7 +21,7 @@ A curated list of articles I authored or contributed to, media interviews, webin
 
 - **How to make your multicloud security more effective**  
   **Featured Commentary**: Steve Cobb on multicloud strategies  
-  Published: Q2 2025  
+  Published: June 26, 2025  
   [CSO Article](https://www.csoonline.com/article/4010489/how-to-make-your-multicloud-security-more-effective.html)
 
 - **Royal Mail spent £10m on cyber measures after LockBit attack**  
@@ -31,16 +31,10 @@ A curated list of articles I authored or contributed to, media interviews, webin
 
 - **Turkish APT Exploits Chat Zero-Day to Spy on Iraqi Kurds**  
   **Featured Analysis**: Steve Cobb on APT threats  
-  Published: Q2 2025  
+  Published: May 16, 2025  
   [Dark Reading Article](https://www.darkreading.com/cyberattacks-data-breaches/turkish-apt-exploits-chat-app-zero-day-spy-iraqi-kurds)
 
 ## 📺 Media Interviews & Features
-
-- **SecurityScorecard In The News Q2 2025**  
-  **Type**: Feature  
-  **Published**: July 2, 2025  
-  **Description**: Multiple mentions and commentary from Steve Cobb on multicloud security and APT threats.  
-  [SecurityScorecard Blog](https://securityscorecard.com/blog/securityscorecard-in-the-news-q2-2025)
 
 - **Ho-Ho-Hold On: CISO Steve Cobb Shares Cyber Santa’s Guide to Safe Holiday Shopping**  
   **Type**: Video Interview with FOX Houston  
@@ -51,28 +45,36 @@ A curated list of articles I authored or contributed to, media interviews, webin
 
 ## 🎙️Podcasts
 
-- **The Constantly Evolving Subject of Cyber Security**  
-  **Podcast**: Easy Prey Podcast  
-  **Published**: June 22, 2022  
-  **Description**: Interview on evolving cybersecurity threats, risks, and mitigation strategies.  
-  [Podcast Episode](https://www.easyprey.com/the-constantly-evolving-subject-of-cyber-security-with-stephen-cobb)
-
 - **Challenging AI Threats and Strengthening Human Vigilance**  
   **Type**: Authenticate This! Podcast 
   **Published**: Aug 27, 2025  
   **Description**: Interview as CISO of SecurityScorecard on AI threats and vigilance.  
   [YouTube Video](https://www.youtube.com/watch?v=H0F-gpcuZ_4)
   
-## 🗣️Conferences & Speaking Engagements
+## 🎥Webinars
 
-- **Ones and Zeroes: A Tale of Two Futures**  
-  **Event**: TEDxSanDiego  
-  **Published**: ~2018–2020  
-  **Description**: TEDx talk on the dual futures of technology and cybersecurity.  
-  [YouTube Video](https://www.youtube.com/watch?v=dZktSOH_pVU)
+- **Strengthening Vendor Relationships and Building Cyber Resilience**  
+  **Type**: Webinar  
+  **Published**: Feb 27, 2025  
+  **Description**: Presented by Steve Cobb on vendor relationships and cyber resilience.  
+  [BrightTALK Webinar](https://www.brighttalk.com/webcast/19566/636360)
+
+## 🗣️Conferences & Speaking Engagements
 
 - **RSA Conference 2025**  
   **Event**: RSAC 2025  
-  **Published**: Q2 2025  
+  **Published**: May 1, 2025  
   **Description**: Steve Cobb made a strong impression at RSAC 2025 (booth, potential speaking or panel).  
   [Instagram Post](https://www.instagram.com/p/DJHyqI4JPio)
+
+- **Odyssey.conf 2025: Charting the Course for Cyber Resilience**  
+  **Event**: Odyssey.conf 2025 (hosted by SecurityScorecard)  
+  **Published**: March 4, 2025  
+  **Description**: Led a session on SCDR (Supply Chain Digital Risk) as CISO of SecurityScorecard, addressing global supply chain disruptions.  
+  [SecurityScorecard Blog](https://securityscorecard.com/blog/odyssey-conf-2025-charting-the-course-for-cyber-resilience)
+
+- **BlackHat Conference**  
+  **Event**: BlackHat (mentioned in LinkedIn post)  
+  **Published**: August 2025  
+  **Description**: Featured talk by Steve Cobb on third-party risk.  
+  [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7357142257034035202/)
