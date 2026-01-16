@@ -7,9 +7,7 @@
 A curated list of articles I authored or contributed to, media interviews, webinars, podcasts, and conferences where I spoke. This spans cybersecurity, technology, and related topics.  
 **Last updated: January 16, 2026**
 
-## Articles & Publications
-
-![Article Icon](https://simpleicons.org/icons/article.svg)
+## 📰 Articles & Publications
 
 - **US breach reinforces need to plug third-party security weaknesses**  
   **Featured Quote**: Steve Cobb on vendor risk management and ransomware tactics  
