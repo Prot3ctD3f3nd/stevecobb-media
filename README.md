@@ -115,7 +115,7 @@ A curated list of articles I authored or contributed to, media interviews, webin
   **Description**: Featured talk by Steve Cobb on third-party risk.  
   [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7357142257034035202/)
 
-  - **Chicago CISO Executive Summit 2025 – Executive Boardroom Session**  
+- **Chicago CISO Executive Summit 2025 – Executive Boardroom Session**  
   **Type**: Leadership Roundtable / Executive Boardroom Facilitator  
   **Published/Hosted**: Dec 10, 2025 
   **Description**: Led an exclusive executive boardroom discussion at the Gartner Chicago CISO Executive Summit, guiding senior cybersecurity leaders through strategic topics including risk governance, emerging threats, and leadership in regulated environments.  
