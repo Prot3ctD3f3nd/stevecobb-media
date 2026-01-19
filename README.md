@@ -83,6 +83,12 @@ A curated list of articles I authored or contributed to, media interviews, webin
   **Description**: Presented by Steve Cobb on vendor relationships and cyber resilience.  
   [BrightTALK Webinar](https://www.brighttalk.com/webcast/19566/636360)
 
+- **2026 Cybersecurity Predictions Roundtable**  
+  **Type**: Virtual Event / Expert Panel Discussion  
+  **Published/Hosted**: Dec 17, 2025  
+  **Description**: Participated as an expert panelist in this virtual roundtable discussing key cybersecurity predictions for 2026, including emerging threats, AI risks, and the evolving role of security leaders.  
+  [LinkedIn Event Page](https://www.linkedin.com/events/7399737179700137985/)
+
 ## 🗣️Conferences & Speaking Engagements
 
 - **RSA Conference 2025**  
