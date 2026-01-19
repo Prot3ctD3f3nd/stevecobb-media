@@ -53,7 +53,13 @@ A curated list of articles I authored or contributed to, media interviews, webin
   **Published**: Dec 22, 2025  
   **Description**: Steve Cobb contributed expert insights to this 2026 cybersecurity predictions roundup, discussing the emergence of the Field CISO role and strategies to combat data sprawl in modern enterprises.  
   [LinkedIn Post (SecurityScorecard)](https://www.linkedin.com/feed/update/urn:li:activity:7408906844418711553/)  
-  
+
+- **2025 Cybersecurity Year in Review with Cyber Santa: Candy or Coal**  
+  **Type**: Expert Commentary  
+  **Published**: Dec 22, 2025  
+  **Description**: Steve Cobb contributed expert insights to this 2025 year in review.   
+  [LinkedIn Post (SecurityScorecard)](https://www.linkedin.com/posts/security-scorecard_cybersecurity-holidayseason-cybercrime-activity-7407109753333719040-q91M/)
+    
 ## 🎙️Podcasts
 
 - **Challenging AI Threats and Strengthening Human Vigilance**  
