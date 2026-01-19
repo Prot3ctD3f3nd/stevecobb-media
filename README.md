@@ -74,6 +74,12 @@ A curated list of articles I authored or contributed to, media interviews, webin
   **Description**: Interview as CISO of SecurityScorecard discussing AI-driven threats, strengthening human vigilance, and proactive cybersecurity strategies.  
   [LinkedIn Post (SecurityScorecard)](https://www.linkedin.com/feed/update/urn:li:activity:7416929474799345665/)  
   [Direct YouTube Video](https://www.youtube.com/watch?v=H0F-gpcuZ_4)
+
+- **EP 34: Inside the Jaguar Land Rover Cyberattack – Supply Chain Risk Exposed**  
+  **Type**: Podcast Episode / Expert Guest Appearance  
+  **Published**: Dec 10, 2025
+  **Description**: Featured as a guest expert discussing the Jaguar Land Rover cyberattack, supply chain vulnerabilities, third-party risk exposure, and lessons for resilient cybersecurity strategies.  
+  [Apple Podcasts Episode](https://podcasts.apple.com/us/podcast/ep-34-inside-the-jaguar-land-rover-cyberattack-supply/id1824470698?i=1000740651239)
   
 ## 🎥Webinars
 
