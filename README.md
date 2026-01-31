@@ -82,10 +82,16 @@ A curated list of articles I authored or contributed to, media interviews, webin
   [Apple Podcasts Episode](https://podcasts.apple.com/us/podcast/ep-34-inside-the-jaguar-land-rover-cyberattack-supply/id1824470698?i=1000740651239)
 
 - **The CISO Experience – Steve Cobb**
-  **Type**: Video Interview  
+  **Type**: Video Interview
+    
   **Published**: Jan 6, 2023
   **Description**: Interview discussing expereinces and outlook as a CISO.  
   [YouTube Video](https://www.youtube.com/watch?v=cBUfRiOuG8M)
+
+* **Even Leaders Need Boundaries – REZILIENCE Podcast**
+  * Type: Video Interview  
+  * Published: 2025  
+  * URL: https://www.youtube.com/watch?v=tOavmLf2o94
   
 ## 🎥Webinars
 
