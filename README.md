@@ -81,11 +81,10 @@ A curated list of articles I authored or contributed to, media interviews, webin
   **Description**: Featured as a guest expert discussing the Jaguar Land Rover cyberattack, supply chain vulnerabilities, third-party risk exposure, and lessons for resilient cybersecurity strategies.  
   [Apple Podcasts Episode](https://podcasts.apple.com/us/podcast/ep-34-inside-the-jaguar-land-rover-cyberattack-supply/id1824470698?i=1000740651239)
 
-- **The CISO Experience – Steve Cobb**
-  **Type**: Video Interview
-    
+- **The CISO Experience – Steve Cob**  
+  **Type**: Video Interview   
   **Published**: Jan 6, 2023
-  **Description**: Interview discussing expereinces and outlook as a CISO.  
+  **Description**: Interview discussing experience and outlook as a CISO.  
   [YouTube Video](https://www.youtube.com/watch?v=cBUfRiOuG8M)
 
 * **Even Leaders Need Boundaries – REZILIENCE Podcast**
