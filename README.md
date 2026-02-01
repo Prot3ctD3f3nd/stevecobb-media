@@ -38,6 +38,12 @@ A curated list of articles I authored or contributed to, media interviews, webin
   **Featured Article**: Steve Cobb on 2026 Cybersecurity Predictions  
   Published: Jan 5, 2026  
   [VMBlog Article](https://vmblog.com/archive/2026/01/05/2026-cybersecurity-predictions-the-rise-of-the-field-ciso-and-the-battle-against-data-sprawl.aspx)
+
+- **The Job Offer That Wasn’t: How We Stopped an Espionage Plot**  
+  **Featured Blog**: Steve Cobb, CISO, on a real world cyber attack and defending against it.  
+  **Published**: Oct 29, 2024  
+  **URL:* https://securityscorecard.com/blog/the-job-offer-that-wasnt-how-we-stopped-an-espionage-plot/  
+  *Summary:* Analysis of a targeted espionage campaign and lessons for defenders. :contentReference[oaicite:6]{index=6}
   
 ## 📺 Media Interviews & Features
 
