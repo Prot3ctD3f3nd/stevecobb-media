@@ -44,7 +44,13 @@ A curated list of articles I authored or contributed to, media interviews, webin
   **Published**: Oct 29, 2024  
   **Description**: Analysis of a targeted espionage campaign and lessons for defenders.<br>
   [SecurityScorecard Blog](https://securityscorecard.com/blog/the-job-offer-that-wasnt-how-we-stopped-an-espionage-plot/)  
-    
+
+- **Take 5 with Steve Cobb (One Source)**  
+  **Type**: Interview / feature  
+  **Published**: 2022  
+  **Description**: Q&A with NC Tech on leadership, career lessons, and tech industry perspective.
+  [Article](https://www.nctech.org/resources/blog/2022/cobb-take5.html)  
+      
 ## 📺 Media Interviews & Features
 
 - **Ho-Ho-Hold On: CISO Steve Cobb Shares Cyber Santa’s Guide to Safe Holiday Shopping**  
