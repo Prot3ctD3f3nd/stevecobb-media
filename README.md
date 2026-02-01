@@ -43,7 +43,6 @@ A curated list of articles I authored or contributed to, media interviews, webin
   **Featured Blog**: Steve Cobb, CISO, on a real world cyber attack and defending against it.  
   **Published**: Oct 29, 2024  
   **Description**: Analysis of a targeted espionage campaign and lessons for defenders.
-  
   [SecurityScorecard Blog](https://securityscorecard.com/blog/the-job-offer-that-wasnt-how-we-stopped-an-espionage-plot/)  
     
 ## 📺 Media Interviews & Features
