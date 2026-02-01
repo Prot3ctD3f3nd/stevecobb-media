@@ -48,7 +48,7 @@ A curated list of articles I authored or contributed to, media interviews, webin
 - **Take 5 with Steve Cobb (One Source)**  
   **Type**: Interview / feature  
   **Published**: 2022  
-  **Description**: Q&A with NC Tech on leadership, career lessons, and tech industry perspective.
+  **Description**: Q&A with NC Tech on leadership, career lessons, and tech industry perspective.<br>
   [Article](https://www.nctech.org/resources/blog/2022/cobb-take5.html)  
       
 ## 📺 Media Interviews & Features
