@@ -65,7 +65,7 @@ A curated list of articles I authored or contributed to, media interviews, webin
   **Published**: Sep 23, 2025
   **Description**: CBS News feature on the FBI break up of a SIM Farm potentially used for a cyber attack.  
   [CBS News Link](https://www.cbsnews.com/newyork/video/secret-service-stops-plot-to-disrupt-nycs-cell-network-during-u-n-general-assembly/?utm_source=chatgpt.com)
-  [SecurityScorecard Blog](https://securityscorecard.com/blog/securityscorecard-ciso-steve-cobb-on-cbs-secret-service-takes-down-sim-farm-threat-near-unga/)
+    [SecurityScorecard Blog](https://securityscorecard.com/blog/securityscorecard-ciso-steve-cobb-on-cbs-secret-service-takes-down-sim-farm-threat-near-unga/)
 
 ## 🎙️Podcasts
 
