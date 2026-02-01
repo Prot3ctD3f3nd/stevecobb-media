@@ -59,6 +59,13 @@ A curated list of articles I authored or contributed to, media interviews, webin
   **Published**: Dec 22, 2025  
   **Description**: Steve Cobb contributed expert insights to this 2025 year in review.   
   [LinkedIn Post (SecurityScorecard)](https://www.linkedin.com/posts/security-scorecard_cybersecurity-holidayseason-cybercrime-activity-7407109753333719040-q91M/)
+
+- **SecurityScorecard CISO on CBS News (SIM Farm Threat)**  
+  **Type**: News Feature   
+  **Published**: Sep 23, 2025
+  **Description**: CBS News feature on the FBI break up of a SIM Farm potentially used for a cyber attack.  
+  [CBS News Link](https://www.cbsnews.com/newyork/video/secret-service-stops-plot-to-disrupt-nycs-cell-network-during-u-n-general-assembly/?utm_source=chatgpt.com)
+  [SecurityScorecard Blog Link](https://securityscorecard.com/blog/securityscorecard-ciso-steve-cobb-on-cbs-secret-service-takes-down-sim-farm-threat-near-unga/)
     
 ## 🎙️Podcasts
 
@@ -81,17 +88,18 @@ A curated list of articles I authored or contributed to, media interviews, webin
   **Description**: Featured as a guest expert discussing the Jaguar Land Rover cyberattack, supply chain vulnerabilities, third-party risk exposure, and lessons for resilient cybersecurity strategies.  
   [Apple Podcasts Episode](https://podcasts.apple.com/us/podcast/ep-34-inside-the-jaguar-land-rover-cyberattack-supply/id1824470698?i=1000740651239)
 
-- **The CISO Experience – Steve Cob**  
+- **The CISO Experience – Steve Cobb**  
   **Type**: Video Interview   
   **Published**: Jan 6, 2023
   **Description**: Interview discussing experience and outlook as a CISO.  
   [YouTube Video](https://www.youtube.com/watch?v=cBUfRiOuG8M)
 
-* **Even Leaders Need Boundaries – REZILIENCE Podcast**
-  * Type: Video Interview  
-  * Published: 2025  
-  * URL: https://www.youtube.com/watch?v=tOavmLf2o94
-  
+- **Even Leaders Need Boundaries – REZILIENCE Podcast**  
+  **Type**: Video Interview   
+  **Published**: May 15, 2025
+  **Description**: Discussion around leadership, team dynamics, and mental health in cybersecurity roles.  
+  [YouTube Video](https://www.youtube.com/watch?v=tOavmLf2o94)
+
 ## 🎥Webinars
 
 - **Strengthening Vendor Relationships and Building Cyber Resilience**  
