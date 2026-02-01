@@ -42,9 +42,9 @@ A curated list of articles I authored or contributed to, media interviews, webin
 - **The Job Offer That Wasn’t: How We Stopped an Espionage Plot**  
   **Featured Blog**: Steve Cobb, CISO, on a real world cyber attack and defending against it.  
   **Published**: Oct 29, 2024  
-  **URL:* https://securityscorecard.com/blog/the-job-offer-that-wasnt-how-we-stopped-an-espionage-plot/  
-  *Summary:* Analysis of a targeted espionage campaign and lessons for defenders. :contentReference[oaicite:6]{index=6}
-  
+  **Description**: Analysis of a targeted espionage campaign and lessons for defenders.
+  [SecurityScorecard Blog](https://securityscorecard.com/blog/the-job-offer-that-wasnt-how-we-stopped-an-espionage-plot/)  
+    
 ## 📺 Media Interviews & Features
 
 - **Ho-Ho-Hold On: CISO Steve Cobb Shares Cyber Santa’s Guide to Safe Holiday Shopping**  
