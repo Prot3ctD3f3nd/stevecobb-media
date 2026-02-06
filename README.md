@@ -50,6 +50,12 @@ A curated list of articles I authored or contributed to, media interviews, webin
   **Published**: 2022  
   **Description**: Q&A with NC Tech on leadership, career lessons, and tech industry perspective.<br>
   [Article](https://www.nctech.org/resources/blog/2022/cobb-take5.html)  
+
+* **Coinbase Insider Breach Exposes How Outsourced Support Has Become Crypto’s Softest Target**  
+  *Featured Quote*: Steve Cobb on the increasing risk from outsourced support access and insider pathways in crypto-industry security incidents.  
+  *Publication*: Enterprise Security Tech  
+  *Published*: February 2026  
+  *Link*: https://www.enterprisesecuritytech.com/post/coinbase-insider-breach-exposes-how-outsourced-support-has-become-crypto-s-softest-target :contentReference[oaicite:0]{index=0}
       
 ## 📺 Media Interviews & Features
 
