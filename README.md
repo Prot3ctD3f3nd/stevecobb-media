@@ -183,5 +183,13 @@ Topics frequently covered include cybersecurity strategy, threat intelligence, e
   **Completed:** March 2026  
   **Description:** Completed an executive-level course exploring agentic AI systems, orchestration patterns, tool use, and enterprise guardrails. Focused on the implications for enterprise security, governance, and safe adoption of autonomous AI workflows in modern organizations.
 
+## 🔎 Areas of Focus
+
+Cybersecurity Strategy  
+Enterprise Risk Management  
+Threat Intelligence  
+AI & Emerging Technology Security  
+Security Leadership & Governance
+
 For speaking, media inquiries, or professional opportunities, connect with me on LinkedIn:
 https://www.linkedin.com/in/wscobb
