@@ -11,7 +11,7 @@ Topics frequently covered include cybersecurity strategy, threat intelligence, e
 💻🔒
 
 A curated list of articles I authored or contributed to, media interviews, webinars, podcasts, and conferences where I spoke. This spans cybersecurity, technology, and related topics.  
-**Last updated: January 16, 2026**
+**Last updated: March 8, 2026**
 
 ## 📰 Articles & Publications
 
