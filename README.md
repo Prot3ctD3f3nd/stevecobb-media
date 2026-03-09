@@ -171,3 +171,6 @@ Type: Executive Course / Applied Learning
 Provider: Maven  
 Completed: March 2026  
 Description: Completed an executive-level course exploring agentic AI systems, orchestration patterns, tool use, and enterprise guardrails. Focused on the implications for enterprise security, governance, and safe adoption of autonomous AI workflows in modern organizations.
+
+For speaking, media inquiries, or professional opportunities, connect with me on LinkedIn:
+https://www.linkedin.com/in/wscobb
