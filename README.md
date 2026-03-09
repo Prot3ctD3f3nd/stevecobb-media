@@ -11,7 +11,7 @@ Enterprise Security Strategy • Cyber Risk Leadership • AI & Emerging Technol
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/stevecobb/">LinkedIn</a> •
+<a href="https://www.linkedin.com/in/wscobb/">LinkedIn</a> •
 <a href="https://github.com/Prot3ctD3f3nd/stevecobb-media">Media Portfolio</a>
 </p>
 
