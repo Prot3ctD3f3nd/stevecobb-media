@@ -159,13 +159,12 @@ Topics frequently covered include cybersecurity strategy, threat intelligence, e
   **Description**: Led an exclusive executive boardroom discussion at the Gartner Chicago CISO Executive Summit, guiding senior cybersecurity leaders through strategic topics including risk governance, emerging threats, and leadership in regulated environments.  
  [Event Page – Gartner Evanta](https://www.evanta.com/ciso/chicago/chicago-ciso-executive-summit-7430/63990)
 
-📚 Professional Development & Research
+## 📚 Professional Development & Research
 
-Hands-on Agentic AI for Leaders  
-Type: Executive Course / Applied Learning  
-Provider: Maven  
-Completed: March 2026  
-Description: Completed an executive-level course exploring agentic AI systems, orchestration patterns, tool use, and enterprise guardrails. Focused on the implications for enterprise security, governance, and safe adoption of autonomous AI workflows in modern organizations.
+- **Hands-on Agentic AI for Leaders – Maven**  
+  **Type:** Executive Course / Applied Learning  
+  **Completed:** March 2026  
+  **Description:** Completed an executive-level course exploring agentic AI systems, orchestration patterns, tool use, and enterprise guardrails. Focused on the implications for enterprise security, governance, and safe adoption of autonomous AI workflows in modern organizations.
 
 For speaking, media inquiries, or professional opportunities, connect with me on LinkedIn:
 https://www.linkedin.com/in/wscobb
