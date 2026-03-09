@@ -25,6 +25,18 @@ Topics frequently covered include cybersecurity strategy, threat intelligence, e
 
 **Last updated: March 8, 2026**
 
+## ⭐ Featured Media & Insights
+
+- **Quoted in Enterprise Security Tech:**  
+  Coinbase Insider Breach Exposes How Outsourced Support Has Become Crypto’s Softest Target  
+  https://www.enterprisesecuritytech.com/post/coinbase-insider-breach-exposes-how-outsourced-support-has-become-crypto-s-softest-target
+
+- **Industry Commentary:**  
+  Public commentary and expert insight on cybersecurity risk, threat intelligence, and enterprise security leadership.
+
+- **Conference & Industry Speaking:**  
+  Regular speaker and contributor on topics including cyber risk management, enterprise security strategy, and emerging technology security.
+
 ## 📰 Articles & Publications
 
 - **US breach reinforces need to plug third-party security weaknesses**  
