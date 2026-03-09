@@ -2,6 +2,23 @@
 
 # Steve Cobb – Media, Publications, and Speaking
 
+<p align="center">
+Cybersecurity Executive | Chief Information Security Officer | Industry Speaker
+</p>
+
+<p align="center">
+Enterprise Security Strategy • Cyber Risk Leadership • AI & Emerging Technology Security
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/stevecobb/">LinkedIn</a> •
+<a href="https://github.com/Prot3ctD3f3nd/stevecobb-media">Media Portfolio</a>
+</p>
+
+---
+
+This repository highlights media appearances, articles, interviews, conference speaking engagements, and other public contributions related to cybersecurity leadership and industry insights.
+
 William "Steve" Cobb is a cybersecurity executive and Chief Information Security Officer with extensive experience in enterprise security strategy, cyber risk management, and security program leadership. This repository highlights media appearances, published articles, conference speaking engagements, and other public contributions related to cybersecurity leadership and industry insights.
 
 Topics frequently covered include cybersecurity strategy, threat intelligence, enterprise risk management, AI and emerging technology security, and the evolving role of the CISO.
