@@ -164,6 +164,11 @@ Topics frequently covered include cybersecurity strategy, threat intelligence, e
 
 ## 🗣️Conferences & Speaking Engagements
 
+- **RSA Conference 2026 – The Outside-In Advantage: Modernizing TPRM with AI and Threat Intelligence**  
+  **Event**: RSAC 2026  
+  **Published**: March 24, 2026  
+  **Description**: Delivered a session on modernizing third-party risk management by combining outside-in threat intelligence with inside-out vendor risk perspectives. Focused on building AI-accelerated, threat-informed TPRM programs that provide continuous visibility into third-party risk and enable more proactive, risk-based decision making.
+
 - **RSA Conference 2025**  
   **Event**: RSAC 2025  
   **Published**: May 1, 2025  
