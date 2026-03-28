@@ -23,7 +23,7 @@ William "Steve" Cobb is a cybersecurity executive and Chief Information Security
 
 Topics frequently covered include cybersecurity strategy, threat intelligence, enterprise risk management, AI and emerging technology security, and the evolving role of the CISO.
 
-**Last updated: March 8, 2026**
+**Last updated: March 27, 2026**
 
 ## ⭐ Featured Media & Insights
 
