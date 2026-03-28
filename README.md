@@ -168,6 +168,7 @@ Topics frequently covered include cybersecurity strategy, threat intelligence, e
   **Event**: RSAC 2026  
   **Published**: March 24, 2026  
   **Description**: Delivered a session on modernizing third-party risk management by combining outside-in threat intelligence with inside-out vendor risk perspectives. Focused on building AI-accelerated, threat-informed TPRM programs that provide continuous visibility into third-party risk and enable more proactive, risk-based decision making.
+
   [LinkedIn Post](https://www.linkedin.com/posts/security-scorecard_rsac-rsaconference-cybersecurity-activity-7441938359700164608-B1eW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAApESvcBQZi_SiKqPLKY_ZUi4E0JPXzLZH4)
 
 - **RSA Conference 2025**  
