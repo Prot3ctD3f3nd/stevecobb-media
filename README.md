@@ -176,6 +176,12 @@ Topics frequently covered include cybersecurity strategy, threat intelligence, e
   **Description**: Delivered a session on modernizing third-party risk management by combining outside-in threat intelligence with inside-out vendor risk perspectives. Focused on building AI-accelerated, threat-informed TPRM programs that provide continuous visibility into third-party risk and enable more proactive, risk-based decision making.\
   [LinkedIn Post](https://www.linkedin.com/posts/security-scorecard_rsac-rsaconference-cybersecurity-activity-7441938359700164608-B1eW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAApESvcBQZi_SiKqPLKY_ZUi4E0JPXzLZH4)
 
+- **SecureWorld Charlotte – Navigating the Evolving Digital Battlefield**  
+  **Event**: SecureWorld Charlotte  
+  **Published**: March 18, 2026  
+  **Description**: Participated in a panel discussion on how security leaders can adapt to a rapidly evolving threat landscape. The session focused on moving beyond high-level concepts to explore what modern defense looks like in practice, including shifting attacker tactics, the limitations of traditional security models, and how organizations can better align their defenses to today’s dynamic digital battlefield.\
+  [LinkedIn Post](https://www.linkedin.com/posts/wscobb_secureworld-cybersecurity-charlottetech-activity-7437889564087611392-k7pq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAApESvcBQZi_SiKqPLKY_ZUi4E0JPXzLZH4)
+
 - **RSA Conference 2025**  
   **Event**: RSAC 2025  
   **Published**: May 1, 2025  
