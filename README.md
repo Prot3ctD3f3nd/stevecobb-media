@@ -91,8 +91,8 @@ Topics frequently covered include cybersecurity strategy, threat intelligence, e
 
 - **CBS News New York – Iran-Backed Cyberattacks and the Stryker Breach**  
   **Event**: CBS News Interview  
-  **Published**: 2026  
-  **Description**: Joined CBS News New York to discuss the rise of Iran-backed cyberattacks and the broader national security implications of recent incidents, including the Stryker breach. Covered evolving nation-state tactics, the increasing targeting of critical infrastructure, and practical steps organizations can take to improve resilience and protect sensitive data in a rapidly shifting threat landscape.
+  **Published**: March 2026  
+  **Description**: Joined CBS News New York to discuss the rise of Iran-backed cyberattacks and the broader national security implications of recent incidents, including the Stryker breach. Covered evolving nation-state tactics, the increasing targeting of critical infrastructure, and practical steps organizations can take to improve resilience and protect sensitive data in a rapidly shifting threat landscape.\
 [CBS News Interview](https://lnkd.in/eafbj8hP)
   
 - **Ho-Ho-Hold On: CISO Steve Cobb Shares Cyber Santa’s Guide to Safe Holiday Shopping**  
