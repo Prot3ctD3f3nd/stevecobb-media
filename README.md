@@ -39,6 +39,12 @@ Topics frequently covered include cybersecurity strategy, threat intelligence, e
 
 ## 📰 Articles & Publications
 
+- **InformationWeek – Innovation vs. Integrity: The Orchids Security Breach**  
+  **Event**: InformationWeek Article Feature  
+  **Published**: 2026  
+  **Description**: Featured in InformationWeek discussing the security implications of the Orchids zero-click vulnerability and the broader risks introduced by AI-driven development. Highlighted the emergence of “Shadow AI,” the need to apply Zero Trust principles to autonomous AI agents, and the importance of scaling vulnerability disclosure and response programs alongside rapid innovation. Emphasized balancing speed with security and enabling AI adoption within hardened, controlled environments.\
+  [InformationWeek Article](https://www.informationweek.com/software-services/zero-click-hack-exposes-flaw-in-orchids-vibe-coding-platform)
+
 - **US breach reinforces need to plug third-party security weaknesses**  
   **Featured Quote**: Steve Cobb on vendor risk management and ransomware tactics  
   Published: November 26, 2025  
